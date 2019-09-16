@@ -1,4 +1,5 @@
 // cerner_2^5_2019
+
 //to be run in node.js
 
 function hijack(a, b){
