@@ -8,3 +8,5 @@ Day 2 - BuildArray.js - Welcome to "w" an under-engineered and over-engineered w
 Day 3 - threadedTimer.py
 
 Day 4 - hijack.js - Don't like someone's function?  Just replace it.
+
+Day 5 - timeIt.js - a simple function execution timer that can run anywhere.
