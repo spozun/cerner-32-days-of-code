@@ -1,5 +1,5 @@
 # productivity
-cerner_2^5_2019
+Cerner 32 days of code
 
 Day 1 - SetTimeouts.js - A sad way to slam multiple setTimeouts into your Javascript faster!
 
@@ -9,6 +9,7 @@ Day 3 - threadedTimer.py
 
 Day 4 - hijack.js - Don't like someone's function?  Just replace it.
 
-Day 5 - timeIt.js - a simple function execution timer that can run anywhere.
+Day 5 - timeIt.js - a simple function execution performance timer that can run anywhere.
 
 Day 6 - gitRepoContents.html - this webpage will show you the contents of a user's Git Hub repo, with clickable links.  It defaults to this repo!
+
