@@ -23,6 +23,7 @@ func main() {
   var ch chan string = make(chan string)
   go thread1( ch )
   go thread2( ch )
+  //thread 3, the listener:
   go func() {
     for {
       fmt.Println(<- ch)
