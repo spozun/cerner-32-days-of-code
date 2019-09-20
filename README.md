@@ -14,3 +14,5 @@ Day 5 - timeIt.js - a simple function execution performance timer that can run a
 Day 6 - gitRepoContents.html - this webpage will show you the contents of a user's Git Hub repo, with clickable links.  It defaults to this repo!
 
 Day 7 - simpleThreadChannel.go - 3 threads work together to draw boxes, using a Go Thread Channel.
+
+Day 8 - REPL.lisp - a LISP REPL'er written in LISP.  And it's only one line!
