@@ -1,0 +1,35 @@
+! cerner_2^5_2019
+program wowItsFortran
+   implicit none
+
+   integer, pointer :: p1
+   integer, target :: t1 
+   integer, target :: t2 
+   
+   p1=>t1
+   p1 = 5
+
+   p1=>t2
+   p1 = 7
+
+   if(associated(p1,t1) .EQV. .TRUE.) Print *, "pointer p1 currently associated to t1"
+   if(associated(p1,t2) .EQV. .TRUE.) Print *, "pointer p1 currently associated to t2"
+
+   allocate(p1)  !allocate p1 memory space for it's own unnamed integer
+   p1 = huge(p1)  !max value of it's type, which is integer
+
+   if((associated(p1,t1) .EQV. .FALSE.) .AND. (associated(p1,t2) .EQV. .FALSE.)) Print *, "p1 not associated to t1 or t2"
+
+   Print *, "t1 = ", t1
+   Print *, "t2 = ", t2
+   Print *, "p1 = ", p1
+   
+end program wowItsFortran
+
+! output:
+
+! pointer p1 currently associated to t2
+! p1 not associated to t1 or t2
+! t1 =            5
+! t2 =            7
+! p1 =   2147483647
