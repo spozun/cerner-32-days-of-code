@@ -21,5 +21,5 @@ Day 9 - pointers.fortran - some Fortran!  Pointer association to "targets", and 
 
 Day 10 - NodeExpressHttpServer.js - node server which serves up the contents of the local folder on disk where you ran it from.  Useful for hackathons!
     
-    Usage > command line:  node NodeExpressHttpServer.js
+    Usage > command line: node NodeExpressHttpServer.js
     Usage > Browser: http://localhost:3000/
