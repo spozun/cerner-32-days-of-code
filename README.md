@@ -19,6 +19,7 @@ Day 8 - REPL.lisp - a LISP REPL'er written in LISP.  And it's only one line!
 
 Day 9 - pointers.fortran - some Fortran!  Pointer association to "targets", and it's own address space
 
-Day 10 - NodeExpressHttpServer.js - node server which serves up the contents of the local folder on disk.  Useful for hackathons!
+Day 10 - NodeExpressHttpServer.js - node server which serves up the contents of the local folder on disk where you ran it from.  Useful for hackathons!
     
-    Usage:  node NodeExpressHttpServer.js
+    Usage > command line:  node NodeExpressHttpServer.js
+    Usage > Browser: http://localhost:3000/
