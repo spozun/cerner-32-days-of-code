@@ -23,3 +23,5 @@ Day 10 - NodeExpressHttpServer.js - node server which serves up the contents of 
     
     Usage > command line: node NodeExpressHttpServer.js
     Usage > Browser: http://localhost:3000/
+
+Day 11 - walkFileTree.java - recursively walk a file folder and it's contents, returning the absolute path of all contents.
