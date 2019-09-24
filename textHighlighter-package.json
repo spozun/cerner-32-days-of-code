@@ -1,0 +1,7 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^12.7.7",
+    "chalk": "2.4.2"
+  }
+}
