@@ -26,4 +26,4 @@ Day 10 - NodeExpressHttpServer.js - node server which serves up the contents of 
 
 Day 11 - walkFileTree.java - recursively walk a file folder and it's contents, returning the absolute path of all contents.
 
-Day 12 - textHighlighter.ts - node function that highlights a search term in a body of text on the command line.
+Day 12 - textHighlighter.ts - node function that highlights all instances of a search term in a body of text on the command line.
