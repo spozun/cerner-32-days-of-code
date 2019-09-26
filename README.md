@@ -29,3 +29,11 @@ Day 11 - walkFileTree.java - recursively walk a file folder and it's contents, r
 Day 12 - textHighlighter.ts - node function that highlights all instances of a search term in a body of text on the command line.
 
 Day 13 - codeInjection.rb - playing with Ruby block/yield and eval.  Calls a private funtion that should not be callable.
+
+Day 14 - bensProblem.js - my son asked me last night to solve a logic/number problem while I was sitting at my computer, so I said "let's just write a program for that".  The problem is to use the digits 1-9 each once so that each row and column in the below shape add up to the same number.
+
+    XXX
+      X
+      XXX
+        X
+        X
