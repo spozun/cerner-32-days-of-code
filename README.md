@@ -30,7 +30,7 @@ Day 12 - textHighlighter.ts - node function that highlights all instances of a s
 
 Day 13 - codeInjection.rb - playing with Ruby block/yield and eval.  Calls a private funtion that should not be callable.
 
-Day 14 - bensProblem.js - My son Ben asked me last night to solve a logic/number problem while I was sitting at my computer, so I said "let's just write a program for that".  The problem is to use all digits 1-9 each once so that each row and column in the below shape add up to the same number.  There ended up being 96 unique answers.  Technically every answers are the same answer if you reverse a given solution or swap the first two or last two digits, so really there are 16 highly unique solutions.
+Day 14 - bensProblem.js - My son Ben asked me last night to solve a logic/number problem while I was sitting at my computer, so I said "let's just write a program for that".  The problem is to use all digits 1-9 each once so that each row and column in the below shape add up to the same number.  There ended up being 96 unique answers.  Technically every 6 answers are the same answer if you reverse a given solution or swap the first two or last two digits, so really there are 16 highly unique solutions.
 
     X X X
         X
