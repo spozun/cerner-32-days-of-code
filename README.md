@@ -37,3 +37,5 @@ Day 14 - bensProblem.js - My son Ben asked me last night to solve a logic/number
         X X X
             X
             X
+
+Day 15 - FAKTOREEL.LOL - It's that LOLCODE calculatin yer FAKTOREELs
