@@ -41,3 +41,6 @@ Day 14 - bensProblem.js - My son Ben asked me last night to solve a logic/number
 Day 15 - FAKTOREEL.LOL - It's that LOLCODE calculatin yer FAKTOREELs
 
 Day 16 - personSort.kt - some Kotlin
+
+Day 17 - jira-lookup.ps1 - Uses the JIRA REST api, to do a quick JIRA lookup, then parses out the assignee & summary.
+
