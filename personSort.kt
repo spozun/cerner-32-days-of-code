@@ -2,7 +2,7 @@
 
 enum class SortType(val type: String) {
     AGE("age"),
-    NAME("name"),
+    NAME("name")
 }
 
 data class Person(val name: String, val age: Int)
