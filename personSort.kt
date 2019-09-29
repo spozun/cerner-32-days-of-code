@@ -8,15 +8,16 @@ enum class SortType(val type: String) {
 data class Person(val name: String, val age: Int)
 
 fun sortPeople(people: List<Person>, sortType: SortType) : List<Person> {
-	var result = listOf<Person>()
+    var result = listOf<Person>()
  
     when (sortType) {
-	    SortType.AGE -> result = people.sortedBy { it.age }
-    	SortType.NAME -> result = people.sortedBy { it.name }
+        SortType.AGE -> result = people.sortedBy { it.age }
+        SortType.NAME -> result = people.sortedBy { it.name }
         else -> {
             print("invalid sort type")
         }
-	}
+    }
+
     return result
 }
 
