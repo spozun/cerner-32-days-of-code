@@ -1,6 +1,8 @@
 # productivity
 Cerner 32 days of code, 32 lines or less.
 
+Languages:  Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby, LOLCODE, Kotlin, Powershell
+
 Day 1 - SetTimeouts.js - A sad way to slam multiple setTimeouts into your browser-based Javascript faster!
 
 Day 2 - BuildArray.js - Welcome to "w" an under-engineered and over-engineered way to build an array of sequential integers!
