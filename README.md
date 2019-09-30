@@ -1,5 +1,4 @@
-# Cerner 32 days of code
-32 lines or less.
+# Cerner 2^5, 32 days of code, 32 lines or less.
 
 Languages:  Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby, LOLCODE, Kotlin, Powershell
 
