@@ -1,8 +1,8 @@
 # Cerner 2^5 2019
 
-32 days of code, 32 lines or less.
+## 32 days of code, 32 lines or less.
 
-Languages:  Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby, LOLCODE, Kotlin, Powershell
+## Languages:  Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby, LOLCODE, Kotlin, Powershell
 
 Day 1 - SetTimeouts.js - A sad way to slam multiple setTimeouts into your browser-based Javascript faster!
 
