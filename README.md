@@ -49,3 +49,4 @@ Day 16 - personSort.kt - some Kotlin
 
 Day 17 - jira-lookup.ps1 - Uses the JIRA REST api, to do a quick JIRA lookup, then parses out the assignee & summary.
 
+Day 18 - SwaggerSpringMvcController.java - Spring MVC Rest controller, with Swagger annotations!
