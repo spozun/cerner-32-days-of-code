@@ -2,7 +2,7 @@
 
 ## 32 days of code, 32 lines or less.
 
-**Languages**:  Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby, LOLCODE, Kotlin, Powershell
+**Languages**:  Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby, LOLCODE, Kotlin, Powershell, Rust
 
 Day 1 - SetTimeouts.js - Slam multiple setTimeouts into your browser-based Javascript faster!
 
@@ -50,3 +50,5 @@ Day 16 - personSort.kt - some Kotlin
 Day 17 - jira-lookup.ps1 - Uses the JIRA REST api, to do a quick JIRA lookup, then parses out the assignee & summary.
 
 Day 18 - SwaggerSpringMvcController.java - Spring MVC Rest controller, with Swagger annotations!
+
+Day 19 - 10x12_chessboard_architecture.rs - 
