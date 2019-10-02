@@ -1,6 +1,6 @@
 # Cerner 2^5 2019
 
-## 32 days of code, 32 lines or less.
+32 days of code, 32 lines or less.
 
 ### 13 Languages:  Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby, LOLCODE, Kotlin, Powershell, Rust
 
