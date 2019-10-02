@@ -2,8 +2,9 @@
 
 32 days of code, 32 lines or less.
 
-### 13 Languages:  Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby, LOLCODE, Kotlin, Powershell, Rust
-
+```
+13 Languages:  Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby, LOLCODE, Kotlin, Powershell, Rust
+```
 Day 1 - SetTimeouts.js - Slam multiple setTimeouts into your browser-based Javascript faster!
 
 Day 2 - BuildArray.js - Welcome to "w" an under-engineered and over-engineered way to build an array of sequential integers!
