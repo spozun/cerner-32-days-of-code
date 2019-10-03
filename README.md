@@ -56,4 +56,4 @@ Day 18 - SwaggerSpringMvcController.java - Spring MVC Rest controller, with Swag
 
 Day 19 - 10x12_chessboard_architecture.rs - In Rust, initialize the 10x12 chessboard architecture, and the beginnings of find_valid_bishop_moves(), but hit 32 lines and ran out of space.  The 10x12 architecture is designed to make finding legal moves very simple mathematically.
 
-Day 20 - chess_bishop.rs - Complete find_valid_bishop_moves function in it's own module, for my rust chess program.
+Day 20 - chess_bishop.rs - Complete find_valid_bishop_moves function in it's own module, for my rust chess program.  Works with chess_main.rs.
