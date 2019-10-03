@@ -2,7 +2,7 @@
 
 32 days of code, 32 lines or less.
 
-### 13 Languages:
+### 14 Languages:
 ```
             Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby,
             LOLCODE, Kotlin, Powershell, Rust, Swift
