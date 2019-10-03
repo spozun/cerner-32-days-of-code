@@ -19,6 +19,14 @@ fn main() {
     }
     z+= 10;
   }
-  chess_bishop::find_valid_bishop_moves(85, _grid);
+
+  let mut pos = 85;
+  println!("Valid moves for bishop starting at {}", pos); 
+  chess_bishop::find_valid_bishop_moves(pos, _grid);
   //outputs 74, 63, 52, 41, 96, 76, 67, 58, 94
+
+  pos = 58;
+  println!("Valid moves for bishop starting at {}", pos); 
+  chess_bishop::find_valid_bishop_moves(pos, _grid);
+  //outputs 47, 36, 25, 67, 76, 85, 94
 }
