@@ -55,3 +55,5 @@ Day 17 - jira-lookup.ps1 - Uses the JIRA REST api, to do a quick JIRA lookup, th
 Day 18 - SwaggerSpringMvcController.java - Spring MVC Rest controller, with Swagger annotations!
 
 Day 19 - 10x12_chessboard_architecture.rs - In Rust, initialize the 10x12 chessboard architecture, and the beginnings of find_valid_bishop_moves(), but hit 32 lines and ran out of space.  The 10x12 architecture is designed to make finding legal moves very simple mathematically.
+
+Day 20 - chess_bishop.rs - Complete find_valid_bishop_moves function in it's own module, for my rust chess program.
