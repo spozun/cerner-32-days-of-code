@@ -2,10 +2,10 @@
 
 32 days of code, 32 lines or less.
 
-### 14 Languages:
+### 15 Languages:
 ```
             Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby,
-            LOLCODE, Kotlin, Powershell, Rust, Swift
+            LOLCODE, Kotlin, Powershell, Rust, Swift, BrainF
 ```
 Day 1 - SetTimeouts.js - Slam multiple setTimeouts into your browser-based Javascript faster!
 
@@ -59,3 +59,5 @@ Day 19 - 10x12_chessboard_architecture.rs - In Rust, initialize the 10x12 chessb
 Day 20 - chess_bishop.rs - Complete find_valid_bishop_moves function in it's own module, for my rust chess program.  Works with chess_main.rs.
 
 Day 21 - fun-swift.swift - Fun with Swift: Optional Chaining, and Tuples.
+
+Day 22 - addition.bf - Actual logic in Brain-F, not just character output.  This program adds 2 numbers, which is quite tricky.
