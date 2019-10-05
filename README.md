@@ -61,3 +61,5 @@ Day 20 - chess_bishop.rs - Complete find_valid_bishop_moves function in it's own
 Day 21 - fun-swift.swift - Fun with Swift: Optional Chaining, and Tuples.
 
 Day 22 - addition.bf - Actual logic in Brain-F, not just character output.  This program adds 2 numbers, which is quite tricky.
+
+Day 23 - some_coffee.coffee - Showing off how succinct coffeescript is.
