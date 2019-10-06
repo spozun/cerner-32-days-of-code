@@ -63,3 +63,5 @@ Day 21 - fun-swift.swift - Fun with Swift: Optional Chaining, and Tuples.
 Day 22 - addition.bf - Actual logic in Brain-F, not just character output.  This program adds 2 numbers, which is quite tricky.
 
 Day 23 - some_coffee.coffee - Showing off how succinct coffeescript is.  However ES6 pretty much puts them out of business.
+
+Day 24 - engineering_productivity_Ook.Ook - It's OOK!  The sound babboons make, and also an esoteric programming langauge!
