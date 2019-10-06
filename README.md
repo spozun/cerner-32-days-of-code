@@ -2,10 +2,10 @@
 
 32 days of code, 32 lines or less.
 
-### 16 Languages:
+### 17 Languages:
 ```
             Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby,
-            LOLCODE, Kotlin, Powershell, Rust, Swift, BrainF, Coffeescript
+            LOLCODE, Kotlin, Powershell, Rust, Swift, BrainF, Coffeescript, Ook
 ```
 Day 1 - SetTimeouts.js - Slam multiple setTimeouts into your browser-based Javascript faster!
 
