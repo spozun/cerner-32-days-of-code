@@ -2,10 +2,11 @@
 
 32 days of code, 32 lines or less.
 
-### 17 Languages:
+### 18 Languages:
 ```
             Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby,
-            LOLCODE, Kotlin, Powershell, Rust, Swift, BrainF, Coffeescript, Ook
+            LOLCODE, Kotlin, Powershell, Rust, Swift, BrainF, Coffeescript, Ook,
+            Haskell
 ```
 Day 1 - SetTimeouts.js - Slam multiple setTimeouts into your browser-based Javascript faster!
 
@@ -65,3 +66,5 @@ Day 22 - addition.bf - Actual logic in Brain-F, not just character output.  This
 Day 23 - some_coffee.coffee - Showing off how succinct coffeescript is.  However ES6 pretty much puts them out of business.
 
 Day 24 - engineering_productivity_Ook.Ook - It's OOK!  The sound babboons make, and also an esoteric programming langauge!
+
+Day 25 - text-manipulation.hs - Some Haskell String manipulation.  Using Strings as arrays of characters to map / sort / filter.
