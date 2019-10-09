@@ -2,11 +2,11 @@
 
 32 days of code, 32 lines or less.
 
-### 19 Languages:
+### 20 Languages:
 ```
             Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby,
             LOLCODE, Kotlin, Powershell, Rust, Swift, BrainF, Coffeescript, Ook,
-            Haskell, Clojure
+            Haskell, Clojure, C#
 ```
 Day 1 - SetTimeouts.js - Slam multiple setTimeouts into your browser-based Javascript faster!
 
@@ -70,3 +70,5 @@ Day 24 - engineering_productivity_Ook.Ook - It's OOK!  The sound babboons make, 
 Day 25 - text-manipulation.hs - Some Haskell String manipulation.  Using Strings as arrays of characters to map / sort / filter.
 
 Day 26 - observer.clj - Observer pattern in Clojure
+
+Day 27 - proxy.cs - Proxy in C#
