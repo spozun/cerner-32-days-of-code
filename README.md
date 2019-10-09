@@ -68,3 +68,5 @@ Day 23 - some_coffee.coffee - Showing off how succinct coffeescript is.  However
 Day 24 - engineering_productivity_Ook.Ook - It's OOK!  The sound babboons make, and also an esoteric programming langauge!
 
 Day 25 - text-manipulation.hs - Some Haskell String manipulation.  Using Strings as arrays of characters to map / sort / filter.
+
+Day 26 - observer.clj - Observer pattern in Clojure
