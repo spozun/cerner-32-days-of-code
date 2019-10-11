@@ -72,3 +72,5 @@ Day 25 - text-manipulation.hs - Some Haskell String manipulation.  Using Strings
 Day 26 - observer.clj - Observer pattern in Clojure
 
 Day 27 - proxy.cs - Proxy in C#
+
+Day 28 - lambdas.scala - anonymous function fun.  Almost as fun as Javascript!
