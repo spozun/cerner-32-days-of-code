@@ -75,4 +75,4 @@ Day 27 - proxy.cs - Proxy in C#
 
 Day 28 - lambdas.scala - anonymous function fun.  Almost as fun as Javascript!
 
-Day 29 - ip-checker.groovy - checks for valid IP addresses
+Day 29 - ip-checker.groovy - checks for valid IP addresses.  Also tried out the star operator.
