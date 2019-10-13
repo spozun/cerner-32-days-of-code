@@ -2,11 +2,11 @@
 
 32 days of code, 32 lines or less.
 
-### 22 Languages:
+### 23 Languages:
 ```
             Javascript, Python, Html, Go, Lisp, Fortran, Java, Typescript, Ruby,
             LOLCODE, Kotlin, Powershell, Rust, Swift, BrainF, Coffeescript, Ook,
-            Haskell, Clojure, C#, Scala, Groovy
+            Haskell, Clojure, C#, Scala, Groovy, PHP
 ```
 Day 1 - SetTimeouts.js - Slam multiple setTimeouts into your browser-based Javascript faster!
 
@@ -76,3 +76,5 @@ Day 27 - proxy.cs - Proxy in C#
 Day 28 - lambdas.scala - anonymous function fun.  Almost as fun as Javascript!
 
 Day 29 - ip-checker.groovy - checks for valid IP addresses.  Also tried out the star operator.
+
+Day 30 - dependency_injection.php - inject config class into app class
