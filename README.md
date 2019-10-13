@@ -80,3 +80,5 @@ Day 29 - ip-checker.groovy - checks for valid IP addresses.  Also tried out the 
 Day 30 - dependency_injection.php - inject config class into app class
 
 Day 31 - julia.jl - Julia!  Running out of languages!  Nice language for math and parallel threads
+
+Day 32 - most-obfuscated.js - Hoping to win a sticker with this.
