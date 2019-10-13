@@ -78,3 +78,5 @@ Day 28 - lambdas.scala - anonymous function fun.  Almost as fun as Javascript!
 Day 29 - ip-checker.groovy - checks for valid IP addresses.  Also tried out the star operator.
 
 Day 30 - dependency_injection.php - inject config class into app class
+
+Day 31 - julia.jl - Julia!
